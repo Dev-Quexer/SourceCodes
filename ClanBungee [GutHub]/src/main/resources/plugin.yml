@@ -1,0 +1,4 @@
+name: ClanSystem
+version: ${project.version}
+main: me.quexer.source.clansystem.ClanSystem
+description: ClanSystem Bungee
